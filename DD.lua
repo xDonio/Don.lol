@@ -3428,7 +3428,7 @@ function Library:CreateWindow(HubName, GameName, IntroText, IntroIcon, ImprovePe
                                 BackgroundTransparency = 1,
                                 Position = UDim2.new(0, 293, 0, -7),
                                 Size = UDim2.new(0, 14, 0, 14),
-                                Image = 'rbxassetid://3926309567',
+                                Image = 'rbxassetid://86843950901899',
                                 ImageColor3 = Color3.fromRGB(0, 0, 0),
                                 ImageRectOffset = Vector2.new(628, 420),
                                 ImageRectSize = Vector2.new(48, 48)
